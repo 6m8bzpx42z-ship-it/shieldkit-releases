@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>MalwareChecker</title>
+        <link>https://shieldkit.drewhowlett.com</link>
+        <description>MalwareChecker update feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.14</title>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Resume cancelled scans — pick up where you left off</li>
+                    <li>Scan history persists across app restarts</li>
+                    <li>Dashboard scan buttons navigate to Scan page</li>
+                    <li>Cancelled scans correctly show files scanned and threats found</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 15 Mar 2026 18:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/6m8bzpx42z-ship-it/malware-checker/releases/download/v0.1.14/MalwareChecker.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="z/nkSrBl4ALVip5JCmRLMcoJHXBflvRVTorCdXKr5dB70LSFsEmB+ae78fZVbjKHigbD/h1giEoyYjTxOhWFDw=="
+                length="3171893"
+            />
+        </item>
+    </channel>
+</rss>
