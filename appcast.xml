@@ -1,10 +1,30 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>MalwareChecker</title>
+        <title>ShieldKit</title>
         <link>https://shieldkit.drewhowlett.com</link>
-        <description>MalwareChecker update feed</description>
+        <description>ShieldKit update feed</description>
         <language>en</language>
+        <item>
+            <title>Version 0.1.24</title>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Renamed to ShieldKit — all user-facing strings updated</li>
+                    <li>New onboarding flow on first launch</li>
+                    <li>Sparkle auto-updates</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 15 Mar 2026 21:20:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/6m8bzpx42z-ship-it/shieldkit-releases/releases/download/v0.1.24/ShieldKit.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="64e0tLS2jYf8Go528nwvYaEpBCiT6wS8x6GJTVdxRn9NVDCXy6/hMqRi5s5LDdhzNaz8e7pShwDBB2LhNXlNAw=="
+                length="3222021"
+            />
+        </item>
         <item>
             <title>Version 0.1.14</title>
             <sparkle:version>15</sparkle:version>
