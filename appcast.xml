@@ -6,6 +6,27 @@
         <description>ShieldKit update feed</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.29</title>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Renamed to ShieldKit throughout the app</li>
+                    <li>Styled DMG installer with drag-to-Applications</li>
+                    <li>Fixed URL Monitor trusted domains</li>
+                    <li>Various UI improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 21 Mar 2026 16:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/6m8bzpx42z-ship-it/shieldkit-releases/releases/download/v0.1.29/ShieldKit.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="9+f1FAUl0TjnHlMyMNa3UNQgmcQiGOkvtrBLF98zw6BkYuUuNGJOIvQPtKQoPShlp+U5sNiQOPN15KKlTEFsAw=="
+                length="2909175"
+            />
+        </item>
+        <item>
             <title>Version 0.1.24</title>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
